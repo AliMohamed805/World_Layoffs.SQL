@@ -42,8 +42,3 @@ Key analyses:
 - **Worst Affected Sector:** Consumer (28% of total)  
 - **Top Country:** United States  
 - **Critical Year:** 2022 (58% increase from 2021)  
-
-## ⚙️ Setup  
-```bash
-git clone https://github.com/yourrepo/world-layoffs-analysis.git
-mysql -u [user] -p world_layoffs < World_Layoffs_Data_Cleaning.sql
